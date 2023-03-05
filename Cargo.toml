@@ -1,6 +1,6 @@
 [package]
 name = "lumira"
-description = "Linux launcher for a certain anime game"
+description = "Linux CLI launcher for a certain anime game"
 version = "0.1.0"
 edition = "2021"
 authors = ["reckfullies <reckfullies@gmail.com>"]
